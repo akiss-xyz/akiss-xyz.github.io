@@ -1,0 +1,98 @@
+#+TITLE: safeBPF
+#+SUBTITLE: Provably safe programmable currency
+#+LANGUAGE: en
+#+REVEAL_INIT_OPTIONS: slide-width:1920, slide-height:1080, width:1920, height:1080, transition:'none'
+#+REVEAL_TRANS: none
+#+REVEAL_THEME: moon
+#+REVEAL_THEME: solarized
+#+REVEAL_EXTRA_CSS: dcs-innovation-presentation.css
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
+#+REVEAL_INIT_OPTIONS:
+#+OPTIONS: reveal_title_slide:nil
+:REVEAL_PROPERTIES:
+#+OPTIONS: toc:0 num:nil reveal_title_slide:nil
+:END:
+
+* ⚡ safeBPF ⚡
+Provably safe software!
+* Our product
+#+ATTR_REVEAL: :frag roll-in
+- A virtual machine for BPF
+#+ATTR_REVEAL: :frag roll-in
+- + An industry-first debugger
+#+ATTR_REVEAL: :frag roll-in
+- + A beginner-friendly Python interface
+* Programmable Finance
+* A competitive advantage
+#+ATTR_REVEAL: :frag roll-in
+- Monzo
+#+ATTR_REVEAL: :frag roll-in
+- Revolut
+#+ATTR_REVEAL: :frag roll-in
+- Apple Pay
+* 🔒 What's preventing this?
+*     
+:PROPERTIES:
+:reveal_extra_attr: class=whitetext-two-five-em
+:reveal_background: ./imgs/nasa-rocket-underside.webp
+:reveal_background_size: 1600px
+:reveal_background_repeat: repeat
+:END:
+* 🔓 BPF: unlocking safety 🔓
+#+ATTR_REVEAL: :frag roll-in
+- Meta
+#+ATTR_REVEAL: :frag roll-in
+- Google
+#+ATTR_REVEAL: :frag roll-in
+- IBM
+#+ATTR_REVEAL: :frag roll-in
+- Netflix
+* ✅ Formal verification ✅
+#+ATTR_REVEAL: :frag roll-in
+*Proving* properties about programs.
+
+#+BEGIN_NOTES
+✅
+☑️
+#+END_NOTES
+* Why isn't this everywhere?
+Two reasons.
+* #1: BPF is locked inside of Linux
+➡️ Cannot (currently) be used in your app!
+* 😱 #2: Hard to program! 😱
+➡️ High initial investment upskilling teams, high risk...
+*     
+#+ATTR_HTML: :style font-size: 40pt
+#+ATTR_HTML: :style padding-bottom: 10em
+🌟 *safeBPF fixes these issues.*
+
+#+ATTR_REVEAL: :frag roll-in
+- Our virtual machine makes BPF *intuitive*.
+
+#+ATTR_REVEAL: :frag roll-in
+(... atleast, to developers.)
+*     
+#+ATTR_HTML: :style font-size: 40pt
+#+ATTR_HTML: :style padding-bottom: 10em
+🌟 *safeBPF fixes these issues.*
+
+- The *only* way to leverage BPF in production apps.
+
+#+ATTR_REVEAL: :frag roll-in
+(first mover advantage!)
+* Devs ❤️‍🔥 Open-Source
+*     
+:PROPERTIES:
+:reveal_extra_attr: class=whitetext-two-five-em
+:reveal_background: ./imgs/yc-oss-2.png
+:reveal_background_size: 1600px
+:END:
+* #1 Build customers via open-source
+* #2 Provide paid tiers & consulting
+* Not just finance!
+- Confidential cloud
+
+- Embedded devices
+
+- High-security programmability
+* ⚡ safeBPF ⚡

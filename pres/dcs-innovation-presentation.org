@@ -8,12 +8,20 @@
 #+REVEAL_EXTRA_CSS: dcs-innovation-presentation.css
 #+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
 #+REVEAL_INIT_OPTIONS:
+#+OPTIONS: reveal_title_slide:nil
 :REVEAL_PROPERTIES:
 #+OPTIONS: toc:0 num:nil reveal_title_slide:nil
 :END:
 
 * ⚡ safeBPF ⚡
 Provably safe software!
+* Our product
+#+ATTR_REVEAL: :frag roll-in
+- A virtual machine for BPF
+#+ATTR_REVEAL: :frag roll-in
+- + An industry-first debugger
+#+ATTR_REVEAL: :frag roll-in
+- + A beginner-friendly Python interface
 * Programmable Finance
 * A competitive advantage
 #+ATTR_REVEAL: :frag roll-in

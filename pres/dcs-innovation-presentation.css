@@ -1,0 +1,24 @@
+
+.blacktext h2 {
+    color: #268bd2;
+}
+
+.blacktext-two-five-em h2 {
+    color: #268bd2;
+    font-size: 2.55em;
+}
+
+.whitetext h2 {
+    color: #fdf6e3;
+}
+
+
+.whitetext-two-five-em p {
+    font-size: 44px;
+    font-weight: bold;
+}
+
+.whitetext-two-five-em h2 {
+    color: #fdf6e3;
+    font-size: 2.55em;
+}
